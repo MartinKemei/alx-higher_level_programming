@@ -1,2 +1,3 @@
 # alx-higher_level_programming
-sprint 1: Learning Python
+This is sprint 1: Learning Python
+
